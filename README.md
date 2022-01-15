@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Bayeed
-- 👀 I’m interested in JS and C++ for now
 - 🌱 Currently exploring React and Node
 - 💞️ Looking to collaborate on interesting ideas and projects
 - 📫 You can send me an invitation at my [linkedin](https://www.linkedin.com/in/bayeed-hasan-723289174/) or email @bayeed.hasan@gmail.com
